@@ -3,6 +3,10 @@
 ## Overview
 Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The GKE environment consists of multiple machines (specifically Compute Engine instances) grouped to form a container cluster.
 
+
+<img width="1903" height="881" alt="Screenshot From 2026-10-23 12-28-36" src="https://github.com/user-attachments/assets/22d5bdc8-925d-4edb-9220-b49a63ecbad4" />
+
+
 This lab provides hands-on practice of container creation and application deployment with GKE.
 
 ### Objectives
@@ -146,5 +150,6 @@ To prevent incurring ongoing infrastructure charges for Compute Engine worker no
 2. When prompted with `Do you want to continue (Y/n)?`, type **`Y`** and press **Enter** to confirm. 
 
 ---
+
 
 
