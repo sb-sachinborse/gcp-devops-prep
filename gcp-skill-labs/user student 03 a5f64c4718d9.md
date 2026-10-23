@@ -1,6 +1,7 @@
 # Deploy Kubernetes Applications on Google Cloud: Challenge Lab 
 
-## Youtube Solution [here](https://youtu.be/11O5xdOb1es)
+<img width="1903" height="881" alt="Screenshot From 2026-10-23 17-28-37" src="https://github.com/user-attachments/assets/c1dc285d-d3e9-4454-bdc5-a6af7cedbec0" />
+
 
 ### Set the Variables 
 
